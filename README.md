@@ -9,7 +9,7 @@ Jogo da velha para dois jogadores feito em PHP puro, sem dependências. O estado
 ## Como rodar
 
 ```bash
-git clone https://github.com/SEU-USUARIO/jogo-da-velha-php.git
+git clone https://github.com/edgar-vieira/jogo-da-velha-php.git
 cd jogo-da-velha-php
 php -S localhost:8000 -t public
 ```
